@@ -1,0 +1,44 @@
+#contenedor{
+width:99%;
+margin:auto;
+background-color:#7D7D7D;
+}
+
+#encabezado{
+text-align:center;
+background-color:#fFD700;
+}
+
+#menu1{
+background-color:#464646;
+text-align:center;
+}
+
+#derecha{
+float:right;
+background-color:#B4B3A8;
+width:80%;
+}
+
+#izquierda{
+background-color:#646464;
+float:left;
+width:20%;
+text-align:center;
+}
+
+#piepagina{
+clear:both;
+background-color:#8F0884;
+}
+
+#menu1 a{
+margin-left:25px;
+margin-right:25px;
+}  
+
+img{
+    margin:auto;
+    max-width: 100%;
+    height: auto;
+    display: block;
